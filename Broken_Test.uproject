@@ -11,6 +11,15 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
+		},
+		{
+			"Name": "UIParticleSystem",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/10b64fc937ac49edba22761bb0b9eaeb"
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
 		}
 	]
 }
